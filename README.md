@@ -4,8 +4,6 @@ DAV Module 4 Pandas Challenge
 # Unit 4 Homework: Pandas, Pandas, Pandas
 In this assignment, you’ll create and manipulate Pandas DataFrames to analyze school and standardized test data.
 
-![Fantasy](Images/Fantasy.png)
-
 ## Before You Begin
 
 1. Create a new repository for this project called `pandas-challenge`. **Do not add this homework to an existing repository**.
